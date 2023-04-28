@@ -1,0 +1,26 @@
+body
+{
+color: rgb(7, 148, 148);
+background: linear-gradient(rgb(17, 241, 17),aqua,red);
+
+}
+.heading{
+
+
+width: 80px; ;
+font-size: 20px;
+}
+
+#camera{
+
+    border: 5px dashed azure;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+color: rgb(255, 78, 14);
+
+
+
+
+}
